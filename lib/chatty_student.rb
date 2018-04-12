@@ -2,7 +2,7 @@
 class ChattyStudent
 
   def hello
-  Super
+  super
 end
 
 
