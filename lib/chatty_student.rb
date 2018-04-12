@@ -1,0 +1,7 @@
+
+class ChattyStudent
+  Super
+
+
+
+end
